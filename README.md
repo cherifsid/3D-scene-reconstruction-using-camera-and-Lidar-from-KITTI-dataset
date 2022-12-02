@@ -1,7 +1,7 @@
 # 3D-scene-reconstruction-using-camera-and-Lidar-from-KITTI-dataset
 3D scene reconstruction using camera and Lidar from KITTI dataset
 
-In this prject , it is a question of implementing the knowledge acquired on projective geometry.
+In this project , it is a question of implementing the knowledge acquired on projective geometry.
 
 NOTE: Advanced knowledge in projective geometry is required to understand this project.
 
